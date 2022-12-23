@@ -1,1 +1,1 @@
-# detection-of-fake-online-reviews-usiing-semi-supervised-and-supervised-learning
+# detection-of-fake-online-reviews-using-semi-supervised-and-supervised-learning
